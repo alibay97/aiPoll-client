@@ -37,14 +37,3 @@
   }
 }
 
-/* App */
-.App {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-  /* Signin and Signup */
-  h1 {
-    margin-bottom: 20px;
-  }

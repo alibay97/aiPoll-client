@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Comments() {
+function Comment() {
   return (
     <div>
-      {/* Add your comments component here */}
+    
     </div>
   );
 }
 
-export default Comments;
+export default Comment;

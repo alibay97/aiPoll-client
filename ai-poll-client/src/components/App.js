@@ -9,12 +9,9 @@ import NavBar from '../components/NavBar';
 
 function App() {
   return (
-    <Router>
-      <NavBar />
-      <Switch>
-      
-      </Switch>
-    </Router>
+    <div>
+
+    </div>
   );
 }
 
